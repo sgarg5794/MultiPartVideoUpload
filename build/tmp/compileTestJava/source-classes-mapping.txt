@@ -1,0 +1,2 @@
+org/magnum/dataup/AutoGradingTest.java
+ org.magnum.dataup.AutoGradingTest

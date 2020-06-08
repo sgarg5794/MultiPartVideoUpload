@@ -1,0 +1,16 @@
+org/magnum/dataup/AutoGrading.java
+ org.magnum.dataup.AutoGrading
+org/magnum/dataup/model/VideoStatus.java
+ org.magnum.dataup.model.VideoStatus
+ org.magnum.dataup.model.VideoStatus$VideoState
+org/magnum/dataup/Application.java
+ org.magnum.dataup.Application
+org/magnum/dataup/model/Video.java
+ org.magnum.dataup.model.Video
+ org.magnum.dataup.model.Video$VideoBuilder
+org/magnum/dataup/VideoSvcApi.java
+ org.magnum.dataup.VideoSvcApi
+org/magnum/dataup/VideoFileManager.java
+ org.magnum.dataup.VideoFileManager
+org/magnum/dataup/AnEmptyController.java
+ org.magnum.dataup.AnEmptyController
